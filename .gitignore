@@ -1,0 +1,9 @@
+# Data
+data/raw_data
+*.csv
+
+# Environment
+.env
+
+# MLflow
+mlruns/
